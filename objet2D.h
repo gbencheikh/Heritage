@@ -1,3 +1,4 @@
+#pragma once
 #include "pch.h"
 
 class objet2D{

@@ -1,3 +1,4 @@
+#pragma once
 #include "objet2D.h"
 
 class rectangle : public objet2D{
